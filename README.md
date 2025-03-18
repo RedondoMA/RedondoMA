@@ -3,6 +3,12 @@
 Hello! As a member of the Evolution and Biodiversity team at the National Bioinformatics Infrastructure Sweden (NBIS), my role involves analyzing data for researchers benefiting from our long-term support and sharing my knowledge as a teacher in programming and statistics courses.
 
 With a PhD in microbial ecology, my data analysis journey started with studies of ecological communities. I currently use machine and deep learning techniques—including, but not limited to, random forests, regularized regressions, neural networks, and convolutional neural networks—to decipher the complexities of biological data.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedondoMA)
+
+
+
+
 <!--
 **RedondoMA/RedondoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
