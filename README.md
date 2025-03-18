@@ -1,4 +1,4 @@
-## Welcome! 👋, I'm Miguel A. Redondo, a Bioinformatician at NBIS, Sweden
+## Welcome! 👋 I'm Miguel A. Redondo, a Bioinformatician at NBIS, Sweden
 
 Hello! As a member of the Evolution and Biodiversity team at the National Bioinformatics Infrastructure Sweden (NBIS), my role involves analyzing data for researchers benefiting from our long-term support and sharing my knowledge as a teacher in programming and statistics courses.
 
