@@ -5,6 +5,7 @@ Hello! As a member of the Evolution and Biodiversity team at the National Bioinf
 With a PhD in microbial ecology, my data analysis journey started with studies of ecological communities. I currently use machine and deep learning techniques—including, but not limited to, random forests, regularized regressions, neural networks, and convolutional neural networks—to decipher the complexities of biological data.
 
 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,py,bash,git,anaconda,vscode" />
