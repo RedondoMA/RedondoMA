@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Miguel A. Redondo, a bioinformatician at NBIS (Sweden)
+## Welcome! 👋, I'm Miguel A. Redondo, a Bioinformatician at NBIS, Sweden
 
-My name is Miguel A. Redondo, and I am currently a bioinformatician at Evolution and Biodiversity team of the National Bioinformatics Infrastucture of Sweden (NBIS). I analyse data for researchers that are granted the long-term support at NBIS and I am involved in teaching of courses related to programing lenguages and statistics. 
+Hello! As a member of the Evolution and Biodiversity team at the National Bioinformatics Infrastructure Sweden (NBIS), my role involves analyzing data for researchers benefiting from our long-term support and sharing my knowledge as a teacher in programming and statistics courses.
 
-I have a PhD in microbial ecology
+With a PhD in microbial ecology, my data analysis journey started with studies of ecological communities. I currently use machine and deep learning techniques—including, but not limited to, random forests, regularized regressions, neural networks, and convolutional neural networks—to decipher the complexities of biological data.
 <!--
 **RedondoMA/RedondoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
