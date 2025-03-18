@@ -4,7 +4,7 @@ Hello! As a member of the Evolution and Biodiversity team at the National Bioinf
 
 With a PhD in microbial ecology, my data analysis journey started with studies of ecological communities. I currently use machine and deep learning techniques—including, but not limited to, random forests, regularized regressions, neural networks, and convolutional neural networks—to decipher the complexities of biological data.
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RedondoMA&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RedondoMA&data=followers,repositories,stars,commits&theme=serika)](https://github.com/Jurredr/github-widgetbox)
 
 
 
