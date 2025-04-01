@@ -8,7 +8,7 @@ With a PhD in microbial ecology, my data analysis journey started with studies o
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,bash,git,anaconda,vscode, md" />
+    <img src="https://skillicons.dev/icons?i=r,py,bash,git,anaconda,vscode,md" />
   </a>
 </p>
 
