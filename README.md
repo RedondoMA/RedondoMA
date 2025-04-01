@@ -15,6 +15,7 @@ With a PhD in microbial ecology, my data analysis journey started with studies o
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RedondoMA&data=followers,repositories,stars,commits&theme=serika)](https://github.com/Jurredr/github-widgetbox)
 
+![GitHub Contributions](https://img.shields.io/github/contributors/RedondoMA)
 
 
 
