@@ -2,7 +2,7 @@
 
 Hello! As a member of the Evolution and Biodiversity team at the National Bioinformatics Infrastructure Sweden (NBIS), I analyze data for researchers benefiting from our long-term support and share my knowledge as a teacher in programming and statistics courses.
 
-With a PhD in microbial ecology, my data analysis journey started with studies of ecological communities. I currently use machine and deep learning techniques—including, but not limited to, random forests, regularized regressions, neural networks, and convolutional neural networks—to decipher the complexities of biological data.
+With a PhD in microbial ecology, my data analysis journey started with studies of ecological communities. I currently use machine and deep learning techniques to decipher the complexities of biological data.
 
 
 
